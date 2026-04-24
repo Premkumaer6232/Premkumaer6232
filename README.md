@@ -36,9 +36,6 @@
 </p>
 
 
-### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=Premkumaer6232&theme=dracula&no-frame=true&row=2&column=6" width="100%"/>
-
 
 
 
@@ -88,8 +85,8 @@
 <p>
 <img src="https://leetcard.jacoblin.cool/PREMKUMAR_R_08?theme=dark&font=Marcellus&ext=heatmap" width="90%" />
 </p>
-
-<img src="https://raw.githubusercontent.com/Premkumaer6232/Premkumaer6232/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<p>
+<img src="https://raw.githubusercontent.com/lshariprasad/lshariprasad/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </p>
 
 ### 🧠 Core Principles
